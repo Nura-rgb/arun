@@ -1,1 +1,1 @@
-pritn("arun")
+print("arun")
